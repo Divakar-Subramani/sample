@@ -1,7 +1,7 @@
 add and remove users
 change role
 manage the database
-closing the connection
+closing the database connection
 hello world
 
 change2
