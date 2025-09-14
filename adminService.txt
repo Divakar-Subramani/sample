@@ -4,10 +4,5 @@ manage the database
 closing the connection
 hello world
 
-
-<<<<<<< HEAD
-changed the file
-=======
-change 1
 change2
 >>>>>>> feature4
