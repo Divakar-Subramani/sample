@@ -3,4 +3,9 @@ change role
 manage the database
 closing the connection
 
+<<<<<<< HEAD
 changed the file
+=======
+change 1
+change2
+>>>>>>> feature4
